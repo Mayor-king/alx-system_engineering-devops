@@ -5,6 +5,8 @@
 # display last 10 files
 # display first 10 files
 # print 3rd line
+# script
+# script 2
 # script that creates a file with text in it
 # script that reverse its input.
 # script that removes all letters c and C from input
