@@ -8,5 +8,6 @@
 # script that creates a file with text in it
 # script that reverse its input.
 # script that removes all letters c and C from input
+# Replace all characters A and c from input to Z and e respectively.
 # DJ Cut Killer
  
